@@ -70,6 +70,10 @@ namespace iTextSharp.text.pdf.security {
             algorithmNames["1.3.36.3.3.1.3"] = "RSA";
             algorithmNames["1.3.36.3.3.1.4"] = "RSA";
             algorithmNames["1.2.643.2.2.19"] = "ECGOST3410";
+            algorithmNames["1.2.840.10045.4.3.1"] = "ECDSA";
+            algorithmNames["1.2.840.10045.4.3.2"] = "ECDSA";
+            algorithmNames["1.2.840.10045.4.3.3"] = "ECDSA";
+            algorithmNames["1.2.840.10045.4.3.4"] = "ECDSA";
         }
 
         /**
